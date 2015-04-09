@@ -1,2 +1,8 @@
-# conky-gr33n
-Conky config for everyone who likes a lot of green
+conky-gr33n
+===========
+
+A modified version of Conky-Seamod by SeaJey http://seajey.deviantart.com/art/Conky-Seamod-v0-1-283461046
+
+![img](http://imgur.com/0u8mbfX)
+
+
